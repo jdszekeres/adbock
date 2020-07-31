@@ -1,2 +1,2 @@
 # adbock
-##a chrome ad blocker extension
+## a chrome ad blocker extension
